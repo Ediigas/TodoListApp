@@ -82,7 +82,7 @@ h1 {
   align-items: center;
   margin: 4px auto;
   color: #fff;
-  background: linear-gradient(90deg, #ffe53b 0%, #ff2525 100%);
+  background: linear-gradient(90deg, #ff2525 0%, #ffe53b 100%);
   padding: 18px;
   border-radius: 25px;
   width: 90%;
@@ -90,11 +90,11 @@ h1 {
 
 /* aqui muda de cor cada tarefa do todo list*/
 .tarefas:nth-child(4n + 1) {
-  background: linear-gradient(90deg, #fec194 0%, #ff0061 100%);
+  background: linear-gradient(90deg, #ff0061 0%, #fec194 100%);
 }
 
 .tarefas:nth-child(4n + 2) {
-  background: linear-gradient(90deg, #ffe53b 0%, #00ffff 100%);
+  background: linear-gradient(90deg, #00ffff 0%, #ffe53b 100%);
 }
 
 .tarefas:nth-child(4n + 3) {
